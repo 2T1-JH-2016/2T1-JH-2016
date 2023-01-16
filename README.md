@@ -12,7 +12,8 @@
 
 ## Status
 ![2T1-JH-2016's github stats](https://leetcard.jacoblin.cool/jh20160528?theme=unicorn&font=Marvel&ext=heatmap&animation=false)
-&nbsp; 
+
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=june11077)](https://solved.ac/june11077/)
 
 ## Contacts
